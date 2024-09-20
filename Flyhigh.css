@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image10 {
+    height: 80px;
+    width: 120px;
+}
+
+#items1 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+#items7 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+#items2 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+#items3 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+#items4 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+#items5 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+#items6 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.heading20 {
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 35px;
+}
+
+.para20 {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.image20 {
+    height: 70px;
+    width: 70px;
+}
+
+.para220 {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.heading220 {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.heading {
+    color: #183b56;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.bg-image30 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+}
+
+.heading230 {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.para30 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.button30 {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 40px;
+    height: 35px;
+    width: 120px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.button330 {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 40px;
+    height: 35px;
+    width: 120px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.bg-image230 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    padding-top: 100px;
+}
+
+.text30 {
+    color: #ff9f00;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.icon30 {
+    color: #ff9f00;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.bolding30 {
+    font-weight: bold;
+}
+
+.button230 {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    height: 35px;
+    width: 100px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+
+.bg-color40 {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.heading40 {
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ad2167;
+}
+
+.para40 {
+    font-size: 17px;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.special40 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.heading60 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.heading260 {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+
+.bg-color90 {
+    background-color: #f5f7fa;
+}
+
+.heading90 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.bg-color290 {
+    background-color: #ffffff;
+}
+
+.image90 {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.tag90 {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+.bg99 {
+    background-color: #f5f7fa;
+    height: 100vh;
+}
+
+.heading99 {
+    color: #183b56;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.butn99 {
+    color: #ff9f00;
+    font-size: 20px;
+    font-family: "Roboto";
+    height: 35px;
+    width: 150px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ff9f00;
+    background-color: #f5f7fa;
+    margin-top: 10px;
+}
